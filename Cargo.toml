@@ -7,7 +7,7 @@ authors = [
 	"Sam Clements <sam@borntyping.co.uk>",
 ]
 description = "Process and system monitoring library"
-repository = "https://github.com/rust-psutil/rust-psutil"
+repository = "https://github.com/RajashekarY/rust-psutil"
 readme = "README.md"
 license = "MIT"
 edition = "2018"
